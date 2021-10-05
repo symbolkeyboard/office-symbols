@@ -9,3 +9,43 @@
 
 All symbols consist of official symbol characters, symbol names and meanings listed according to the Unicode standard. All symbol characters have a unique symbol name and meaning. Explore **text symbols**, learn the office symbol names and meanings, copy the symbol you like, and paste it anywhere you want.
 ### List of Office Symbols
+#### © Copyright Sign
+#### ® Registered Sign
+#### ™ Trade Mark Sign
+#### ℠ Service Mark
+#### ℡ Telephone Sign
+#### ℗ Sound Recording Copyright
+#### № Numero Sign
+#### ℀ Account Of
+#### ℁ Addressed To the Subject
+#### ℅ Care Of
+#### ℆ Cada Una
+#### ⅍ Aktieselskab
+#### ‰ Per Mille Sign
+#### ‱ Per Ten Thousand Sign
+#### ¶ Pilcrow Sign
+#### § Section Sign
+#### ☊ Ascending Node
+#### ☎ Black Telephone
+#### ☏ White Telephone
+#### ⌨ Keyboard
+#### ✁ Upper Blade Scissors
+#### ✂ Black Scissors
+#### ✃ Lower Blade Scissors
+#### ✄ White Scissors
+#### ✆ Telephone Location Sign
+#### ✇ Tape Drive
+#### ✈ Airplane
+#### ✉ Envelope
+#### ✎ Lower Right Pencil
+#### ✏ Pencil
+#### ✐ Upper Right Pencil
+#### ✑ White Nib
+#### ✒ Black Nib
+#### ☝ White Up Pointing Index
+#### ☟ White Down Pointing Index
+#### ☞ White Right Pointing Index
+#### ☛ Black Right Pointing Index
+#### ☜ White Left Pointing Index
+#### ☚ Black Left Pointing Index
+#### ✍ Writing Hand
